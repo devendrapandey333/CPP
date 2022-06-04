@@ -1,12 +1,10 @@
-Size is4
-1
-2
-3
-4
-Size is3
-1
-2
-3
+1 2
+3 4
+5 6
+7 8
+1 
+1 2 
+1 2 3 
 
 
-Execution Time : 0.000707 sec
+Execution Time : 0.000344 sec
